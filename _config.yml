@@ -4,3 +4,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll/scholar
+
+scholar:
+  # style: modern-language-association
+  bibliography_template: bib
