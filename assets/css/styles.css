@@ -386,3 +386,14 @@ img {
     font-size: 12px;
     color: rgba(0, 0, 0, 0.5);
 }
+
+
+@media screen and (max-width: 700px) {
+    body {
+        margin: 0 7px;
+    }
+
+    .front-matter-image {
+        display: none;
+    }
+}
